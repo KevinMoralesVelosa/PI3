@@ -1,0 +1,286 @@
+PaisAccidente,Fecha,LugarAccidente,Operador/Aerolinea,CausaAccidente
+ Virginia,1947-06-13,Leesburg Virginia,Pennsylvania AL,Errores Control Trafico Aereo
+ Russia,1948-05-22,Khabarovsk Russia,Aeroflot,Errores Control Trafico Aereo
+ Virginia,1949-11-01,Arlington Virginia,Eastern Air Lines,Errores Control Trafico Aereo
+ Russia,1952-10-05,Skvoritsy Russia,Aeroflot,Errores Control Trafico Aereo
+ Spain,1958-04-14,Castel de Fels Spain,Aviaco,Errores Control Trafico Aereo
+ Alaska,1961-07-21,Shemya Alaska,Alaska AL,Errores Control Trafico Aereo
+ New York,1965-02-08,New York New York,Eastern AL,Errores Control Trafico Aereo
+ Ohio,1967-03-09,Urbana Ohio,Trans World Airlines,Errores Control Trafico Aereo
+ Puerto Rico,1969-03-05,San Juan Puerto Rico,Prinair,Errores Control Trafico Aereo
+ Indiana,1969-09-09,Fairland Indiana,Allegheny AL,Errores Control Trafico Aereo
+ USSR,1970-02-06,Samarkand USSR,Aeroflot,Errores Control Trafico Aereo
+ North Carolina,1971-12-04,Raleigh North Carolina,Eastern AL,Errores Control Trafico Aereo
+ Bulgaria,1972-01-04,Plovdiv Bulgaria,Balkan Bulgarian AL,Errores Control Trafico Aereo
+ Russia,1972-05-04,Bratsk Russia,Aeroflot,Errores Control Trafico Aereo
+ Illinois,1972-12-20,Chicago Illinois,Delta/North Central,Errores Control Trafico Aereo
+ Massachusetts,1973-07-31,Boston Massachusetts,Delta Air Lines,Errores Control Trafico Aereo
+ Virginia,1974-12-01,Berryville Virginia,Trans World Airlines,Errores Control Trafico Aereo
+ Washington,1975-03-20,Quilcene Washington,U.S. Air Force,Errores Control Trafico Aereo
+ Russia,1974-12-04,Irkutsk Russia,Aeroflot,Errores Control Trafico Aereo
+ Russia,1976-09-09,Adler Russia,Aeroflot / Aeroflot,Errores Control Trafico Aereo
+ Yugoslavia,1976-09-10,Hrvatska Yugoslavia,Inex Adria Aviopromet / British Airways,Errores Control Trafico Aereo
+ BC,1978-02-11,Cranbrook BC,Pacific Western AL,Errores Control Trafico Aereo
+ USSR,1979-08-11,Dneprodzerzhinsk USSR,Aeroflot,Errores Control Trafico Aereo
+ Italy,1979-09-14,Sarroch Italy,Aero Transporti Italiani,Errores Control Trafico Aereo
+ Russia,1981-08-24,Zavitinsk Russia,Russian Air Force,Errores Control Trafico Aereo
+ Russia,1983-04-11,Leninakan Russia,Aeroflot,Errores Control Trafico Aereo
+ Russia,1983-04-19,Keninakan Russia,Aeroflot,Errores Control Trafico Aereo
+ Malaysia,1989-02-18,Kuala Lumpur Malaysia,Flying Tiger AL,Errores Control Trafico Aereo
+ California,1991-02-01,Los Angeles California,USAir/Skywest,Errores Control Trafico Aereo
+ France,1992-01-20,Strasbourg France,Air Inter,Errores Control Trafico Aereo
+ Alaska,1995-09-22,Ancorage Alaska,U.S. Air Force,Errores Control Trafico Aereo
+ Nigeria,1996-11-07,Lagos Nigeria,Aviation Dev. Corp.,Errores Control Trafico Aereo
+ Indonesia,1997-09-26,Buah Nabar Indonesia,Garuda Indonesian AL,Errores Control Trafico Aereo
+ Kosovo,1999-11-12,Pristina Kosovo,UN Charter,Errores Control Trafico Aereo
+Georgia,2000-10-25,BatumiGeorgia,Russian Air Force,Errores Control Trafico Aereo
+ Germany,2002-07-01,Uberlinger Germany,Bashkirian AL / DHL,Errores Control Trafico Aereo
+ Romania,1995-03-31,Balotesti Romania,Trans. Aeriene Rom.,Errores Control Trafico Aereo
+ Australia,2000-09-04,Near Burketown Australia,Central Air,Errores Control Trafico Aereo
+ Greece,2005-08-14,Grammatikos Greece,Helios Airways,Errores Control Trafico Aereo
+ Massachusetts,1960-10-04,Boston Massachusetts,Eastern AL,Golpes De Aves
+ Maryland,1962-11-23,Ellicott Maryland,United AL,Golpes De Aves
+ Ireland,1968-03-24,Wexford Harbor Ireland,Air Lingus,Golpes De Aves
+ Ethiopia,1988-09-15,Bahar Dar Ethiopia,Ethiopian AL,Golpes De Aves
+ Alaska,1995-09-22,Anchorage Alaska,U.S. Air Force,Golpes De Aves
+ Congo,2000-04-19,Pepo Congo,Centrafricain Airlines,Golpes De Aves
+ New York,2009-01-15,New York New York,US Airways,Golpes De Aves
+ Picrdie,1923-05-14,Amiens Picrdie France,Air Union,Incendios En Bodega
+ Brazil,1928-05-07,Florianopolis Brazil,Florianopolis. Brazil,Incendios En Bodega
+ Belgium,1933-03-28,Dixmude Belgium,Imperial Airways,Incendios En Bodega
+ Belgium,1937-07-28,Hal Belgium,KLM,Incendios En Bodega
+ Romania,1937-08-06,Bistrita Romania,Aeroflot,Incendios En Bodega
+ Montana,1939-01-13,Miles City Montana,Northwest Orient Airlines,Incendios En Bodega
+ Denmark,1939-08-15,Copenhagen Denmark,British Airways,Incendios En Bodega
+ Norway,1944-04-21,Frederikstad Norway,Deutsche Lufthansa,Incendios En Bodega
+ South Carolina,1945-09-07,Florence South Carolina,Eastern AL,Incendios En Bodega
+ Italy,1946-06-01,Amalfi Italy,U.S. Army Air Forces,Incendios En Bodega
+ Pennsylvania,1946-07-11,Reading Pennsylvania,Trans Continental,Incendios En Bodega
+ Pennsylvania,1948-06-17,Mount Carmel Pennsylvania,United Air Lines,Incendios En Bodega
+ Colombia,1948-12-15,Bogata Colombia,LANSA,Incendios En Bodega
+ Brazil,1949-08-02,Jaquirana Brazil,Varig,Incendios En Bodega
+ Pakistan,1949-12-30,Comilla Pakistan,Bharat Airways,Incendios En Bodega
+ Guatemala,1951-10-27,Flores Guatemala,Guatemalan Air Force,Incendios En Bodega
+ Japan,1954-02-01,Hokkaido Japan,U.S. Air Force,Incendios En Bodega
+ Georgia,1959-03-01,Alma Georgia,Riddle Airlines,Incendios En Bodega
+ Switzerland,1963-09-04,Durrenasch Switzerland,Swissair,Incendios En Bodega
+ Argentina,1964-01-09,Zarate Argentina,Aero Litoral Argentina,Incendios En Bodega
+ Tennesee,1964-07-09,Parrottsville Tennesee,United AL,Incendios En Bodega
+ Pennsylvania,1967-06-27,Blossburg Pennsylvania,Mohawk Airlines,Incendios En Bodega
+ France,1968-09-11,Cap d'Antibes France,Air France,Incendios En Bodega
+ Algeria,1969-07-26,Biskra Algeria,Air Algerie,Incendios En Bodega
+ Somalia,1970-05-06,Mogadishu Somalia,Somali Airlines,Incendios En Bodega
+ Peru,1971-12-24,Huanuco Peru,Lineas Aereas Nacionales,Incendios En Bodega
+ East Germany,1972-08-14,Konigs East Germany,Interflug,Incendios En Bodega
+ Russia,1972-08-31,Magnitogorsk Russia,Aeroflot,Incendios En Bodega
+ Orly,1973-07-11,Paris Orly France,Varig,Incendios En Bodega
+ Massachusetts,1973-11-03,Boston Massachusetts,Pan American,Incendios En Bodega
+ Jeddah,1979-11-26,Ta'if Jeddah Saudi Arabia,Pakistan Inter. AL,Incendios En Bodega
+ Saudi Arabia,1980-08-19,Riyadh Saudi Arabia,Saudi Arabian AL,Incendios En Bodega
+ Saudi Arabia,1980-09-15,Medina Saudi Arabia,Royal Saudi Air Force,Incendios En Bodega
+ China,1982-12-24,Guangzhou China,CAAC,Incendios En Bodega
+ North Carolina,1983-02-13,Fayetteville North Carolina,U.S. Air Force,Incendios En Bodega
+ Kentucky,1983-06-02,Covington Kentucky,Air Canada,Incendios En Bodega
+ Texas,1985-12-31,De Kalb Texas,Private,Incendios En Bodega
+ Russia,1986-07-02,Syktyvar Russia,Aeroflot,Incendios En Bodega
+ Poland,1987-05-09,Warsaw Poland,LOT,Incendios En Bodega
+ Indian Ocean,1987-11-28,Mauritius Indian Ocean,South African Airways,Incendios En Bodega
+ Russia,1990-01-13,Pervouralsk Russia,Aeroflot,Incendios En Bodega
+ Saudi Arabia,1991-07-11,Jeddah Saudi Arabia,Nigeria Airways,Incendios En Bodega
+ Papua New Guinea,1995-07-12,Gumey Papua New Guinea,Milne Bay Air,Incendios En Bodega
+ Florida,1996-05-11,Everglades Florida,ValuJjet,Incendios En Bodega
+ Azerbaijan,1997-04-15,Gyandzha Azerbaijan,Azerbaijan Airlines,Incendios En Bodega
+ Congo,1997-06-06,Irumu Congo,Bazair,Incendios En Bodega
+ Nova Scotia,1998-09-02,Peggy's Cove Nova Scotia,Swissair,Incendios En Bodega
+ Taiwan,1999-08-21,Hualian Taiwan,Uni Air,Incendios En Bodega
+ France,2000-07-25,Gonesse France,Air France,Incendios En Bodega
+ Venezuela,2001-01-21,Ciudad Bolivar Venezuela,Rutaca Airlines,Incendios En Bodega
+ Russia,2001-12-01,Novaya Inya  Russia,Russian military,Incendios En Bodega
+ Russia,2006-05-26,Chelyabinsk Russia,Moskovia Airlines,Incendios En Bodega
+ Ukraine,2006-08-22,Donetsk Ukraine,Pulkovo Airlines,Incendios En Bodega
+ Congo,2009-08-06,Nganga Lingolo Congo,Aero Fret Business,Incendios En Bodega
+ Philippines,2010-04-21,Pampanga Philippines,Interisland Airlines,Incendios En Bodega
+ United Arab Emirates,2010-09-03,Dubai United Arab Emirates,United Parcel Service UPS,Incendios En Bodega
+ South Korea,2011-07-21,Off Jeju South Korea,Asiana Airlines,Incendios En Bodega
+ Kansas,1931-03-31,Bazaar Kansas,Trans Cont. & West AW,Defectos De Disenio
+ Utah,1947-10-24,Bryce Canyon Utah,United AL,Defectos De Disenio
+ New Mexico,1947-11-11,Gallup New Mexico,American AL,Defectos De Disenio
+ Pennsylvania,1948-06-17,Mt. Carmel Pennsylvania,United AL,Defectos De Disenio
+ Minnesota,1948-08-29,Winona Minnesota,Northwest Orient AL,Defectos De Disenio
+ Italy,1954-01-10,Elba Italy,British Overseas AW,Defectos De Disenio
+ Italy,1954-04-08,Off Stromboli Italy,Trans Canada AL,Defectos De Disenio
+ Nigeria,1955-02-05,Calabar Nigeria,West African AW,Defectos De Disenio
+ Texas,1959-09-29,Buffalo Texas,Braniff AL,Defectos De Disenio
+ Indiana,1960-03-17,Tell City Indiana,Northwest Orient AL,Defectos De Disenio
+ Canada,1970-07-05,Toronto Canada,Air Canada,Defectos De Disenio
+ France,1974-03-03,Ermenonville France,Turkish AL,Defectos De Disenio
+ Russia,1982-07-06,Moscow Russia,Aeroflot,Defectos De Disenio
+ Colorado,1991-03-03,Colorado Springs Colorado,United AL,Defectos De Disenio
+ Alaska,1993-04-06,Shemya Alaska,China Eastern Airlines,Defectos De Disenio
+ Pennsylvania,1994-09-08,Aliquippa Pennsylvania,USair,Defectos De Disenio
+ Indiana,1994-10-31,Roselawn Indiana,American Eagle,Defectos De Disenio
+ Russia,1997-12-05,Irkutsk Russia,Russian Air Force,Defectos De Disenio
+ Ethiopia,2019-08-10,Bishoftu Ethiopia,Etiopian Airlines,Defectos De Disenio
+ New Guinea,1937-07-02,Lae New Guinea,Purdue Res. Found.,Falta De Combustible
+ Calif.,1938-11-29,Off Point Reyes Calif.,United Air Lines,Falta De Combustible
+ Newfoundland,1943-02-09,Gander Newfoundland,British Overseas AW,Falta De Combustible
+ Michigan,1946-12-28,Michigan City Michigan,American AL,Falta De Combustible
+ New Jersey,1947-01-05,Carmel New Jersey,Nationwide Air Trans.,Falta De Combustible
+ England,1947-01-11,Lympne England,BOAC,Falta De Combustible
+ Georgia,1948-01-07,Savannah Georgia,Coastal Air Lines,Falta De Combustible
+ Ireland,1949-08-15,Lurga Point Ireland,Transocean Air Lines,Falta De Combustible
+ Brazil,1950-07-28,Porte Alegre Brazil,Penair do Brasil,Falta De Combustible
+ India,1952-04-30,Delhi India,Deccan. AW,Falta De Combustible
+ Mauritania,1952-05-26,Atar Mauritania,British Overseas AW,Falta De Combustible
+ England,1954-06-19,Folkestone England,Swissair,Falta De Combustible
+ Pennsylvania,1954-12-22,Pittsburgh Pennsylvania,Johnson Flying Service,Falta De Combustible
+ Virgin Islands,1970-05-02,St. Croix Virgin Islands,Antillian AL,Falta De Combustible
+ India,1970-12-05,Delhi India,Jamair,Falta De Combustible
+ Indonesia,1972-02-01,Tegal Indonesia,Penas,Falta De Combustible
+ HI,1973-07-24,Honolulu HI,Air Hawaii,Falta De Combustible
+ Upper Volta,1974-08-11,Ouagadougou Upper Volta,Air Mali,Falta De Combustible
+ Mississippi,1977-10-20,Gillsburg Mississippi,L & J Company,Falta De Combustible
+ Lebanon,1977-12-02,Al Bayda Lebanon,Balkan Bulgarian AL,Falta De Combustible
+ Oregon,1978-12-28,Portland Oregon,United AL,Falta De Combustible
+ Brazil,1982-09-04,Rio Branco Brazil,Cia Bras. de Tratores,Falta De Combustible
+ Manitoba,1983-07-23,Gimli Manitoba Canada,Air Canada,Falta De Combustible
+ Brazil,1989-09-03,Sao Jose do Xingu Brazil,Varig,Falta De Combustible
+ New York,1990-01-25,Cove Neck New York,Avianca,Falta De Combustible
+ Canada,1990-09-11,Off Newfoundland Canada,Faucett,Falta De Combustible
+ Nigeria,1991-06-26,Sokotu Nigeria,Okada Air,Falta De Combustible
+ Iran,1993-11-15,Kerman Iran,Magistralnye Avialinii,Falta De Combustible
+ Algeria,1994-09-18,Tamanrasset Algeria,Oriental AL,Falta De Combustible
+ Russia,1994-09-26,Vanavera Russia,Cheremshanka AL,Falta De Combustible
+ Afghanistan,1995-09-11,Jalalabad Afghanistan,Ariana Afghan AL,Falta De Combustible
+ Mexico,1995-10-31,Piedras Negras Mexico,TACSA,Falta De Combustible
+ Russia,1996-04-05,Petropavlovsk Russia,Krasnoyarskie AV,Falta De Combustible
+ Pakistan,1998-01-13,Tor Kach Pakistan,Ariana Afghan AL,Falta De Combustible
+ Sri Lanka,2000-03-24,Kadirana Sri Lanka,OMSK,Falta De Combustible
+ Terceira,2001-08-12,Lajes Terceira Azores,Air Transat,Falta De Combustible
+ Manitoba,2002-06-11,Winnipeg Manitoba,Keystone Air Services,Falta De Combustible
+ Philippines,2002-11-11,Manila Philippines,Laoag Int. Airlines,Falta De Combustible
+ Ohio,2004-08-13,Cincinnati Ohio,Air Tacoma,Falta De Combustible
+ Italy,2005-08-06,Off Palermo Italy,Tuninter,Falta De Combustible
+ Columbia,2016-11-28,La Union Columbia,LAMIA Bolivia16,Falta De Combustible
+ New Mexico,1929-09-03,Mt. Taylor New Mexico,Trans Con. Air Transport,Relampagos
+ Belgium,1937-07-28,Hal Belgium,KLM Royal Dutch Airlines,Relampagos
+ Romania,1938-07-22,Stulpica Romania,LOT,Relampagos
+ Virginia,1940-08-31,Lovettsville Virginia,Penn Central AL,Relampagos
+ Brazil,1946-09-27,Rio Doce Brazil,Panair do Brasil,Relampagos
+ Russia,1949-05-13,Novosibirsk Russia,Aeroflot,Relampagos
+ Italy,1951-01-17,Civitavecchia Italy,Alitalia,Relampagos
+ Russia,1951-09-07,Kazakh Russia,Aeroflot,Relampagos
+ Italy,1959-06-26,Varese Italy,Trans World AL,Relampagos
+ Brazil,1961-07-19,Azul Brazil,Aerolineas Argentinas,Relampagos
+ Poland,1962-12-19,Warsaw Poland,LOT,Relampagos
+ France,1963-08-12,Lyon France,Air Inter,Relampagos
+ Maryland,1963-12-08,Elkton Maryland,Pan American AW,Relampagos
+ Iran,1967-04-18,Zarand Iran,Iranian Air Force,Relampagos
+ Peru,1971-12-24,Puerto Inca Peru,Lineas Aereas Nac.,Relampagos
+ Spain,1976-05-09,Madrid Spain,Iran Air Force,Relampagos
+ France,1980-09-05,Montelimar France,Kuwait Air Force,Relampagos
+ Germany,1988-02-08,Mulheim Germany,NFD,Relampagos
+ El Salvador,1995-08-09,San Vincente El Salvador,Aviateca,Relampagos
+ China,2000-06-22,Shitai China,Wuhan AL,Relampagos
+ Spain,2001-10-10,Off Valencia Spain,Flightline,Relampagos
+ Comoros Islands,2002-12-27,Anjouan Comoros Islands,Ocean Airlines,Relampagos
+ Belgium,1933-03-28,Dixmude Belgium,Imperial AW,Sabotaje  Secuestro
+ Philippines,1949-05-07,Sibuyan Sea Philippines,Philippine AL,Sabotaje  Secuestro
+ Canada,1949-09-09,SaultauxCochons Canada,Canadian Pacific AL,Sabotaje  Secuestro
+ Brazil,1952-08-12,Palmeria de Goias Brazil,Trans Aero Nac.,Sabotaje  Secuestro
+ Sarawak,1955-04-11,Great Natuna Island Sarawak,Air India,Sabotaje  Secuestro
+ Bulgaria,1955-07-27,Near Petrich Bulgaria,El Al,Sabotaje  Secuestro
+ Colorado,1955-11-01,Longmont Colorado,United AL,Sabotaje  Secuestro
+ California,1957-07-25,Daggett California,Western AL,Sabotaje  Secuestro
+ Cuba,1958-11-01,Nipe Bay Cuba,Cubana,Sabotaje  Secuestro
+Mexico,1959-04-17,Puerto KinoMexico,Tigres Voladores,Sabotaje  Secuestro
+ Mexico,1959-09-08,Poza Rica Mexico,Mexicana,Sabotaje  Secuestro
+ North Carolina,1960-01-06,Bolivia North Carolina,National AL,Sabotaje  Secuestro
+ Venezuela,1960-04-28,Calabozo Venezuela,Linea Aeropostal Venezolana,Sabotaje  Secuestro
+ Libya,1961-05-10,In Amenas Libya,Air France,Sabotaje  Secuestro
+ Missouri,1962-05-22,Unionville Missouri,Continental AL,Sabotaje  Secuestro
+ California,1964-05-07,San Ramon California,Pacific AL,Sabotaje  Secuestro
+ Bolivia,1964-12-08,Tripuani Bolivia,Aerolineas Abaroa,Sabotaje  Secuestro
+ British Columbia,1965-07-08,Dog Creek British Columbia,Canadian Pacific AL,Sabotaje  Secuestro
+ Yemen,1966-11-22,Aden Yemen,Aden AW,Sabotaje  Secuestro
+ Mexico,1967-02-09,Mexico City Mexico,Cubana,Sabotaje  Secuestro
+ Greece,1967-10-12,Rhodes Greece,British European AW,Sabotaje  Secuestro
+ Vietnam,1969-12-22,Nha Trang Vietnam,Air Vietnam,Sabotaje  Secuestro
+ Switzerland,1970-02-21,Zurich Switzerland,Swissair,Sabotaje  Secuestro
+ Philippines,1970-04-21,Manila Philippines,Philippine AL,Sabotaje  Secuestro
+ Philippines,1970-06-02,Roxas Philippines,Philippine AL,Sabotaje  Secuestro
+ Russia,1971-10-10,Moscow Russia,Aeroflot,Sabotaje  Secuestro
+ Taiwan,1971-11-21,Penhu Island Taiwan,China AL,Sabotaje  Secuestro
+ Sudan,1971-12-06,Tikaka Sudan,Sudan AW,Sabotaje  Secuestro
+ Czechoslovakia,1972-01-26,Hermsdorf Czechoslovakia,JAT,Sabotaje  Secuestro
+ Vietnam,1972-06-15,Pleiku Vietnam,Cathay Pacific AW,Sabotaje  Secuestro
+ Cambodia,1972-10-02,Kampot Cambodia,Cambodia Air,Sabotaje  Secuestro
+ Egypt,1973-02-21,Near Isma'iliya Egypt,Libya Arab Airlines,Sabotaje  Secuestro
+ South Vietnam,1973-03-19,Ben Me Thout South Vietnam,Air Vietnam,Sabotaje  Secuestro
+ Siberia,1973-05-18,Chita Siberia USSR,Aeroflot,Sabotaje  Secuestro
+ Italy,1973-12-17,Rome Italy,Pan American AW,Sabotaje  Secuestro
+ Vietnam,1974-09-15,Phan Rang Vietnam,Air Vietnam,Sabotaje  Secuestro
+ Philippines,1975-06-03,Manila Philippines,Philippine Air Lines,Sabotaje  Secuestro
+ Saudi Arabia,1976-01-01,Al Qaysumah Saudi Arabia,Middle East AL,Sabotaje  Secuestro
+ Philipines,1976-05-23,Zamboanga Philipines,Philippine Air Lines,Sabotaje  Secuestro
+ Uganda,1976-06-27,Entebbe Uganda,Air France,Sabotaje  Secuestro
+ Vietnam,1976-08-28,Ho Chi Minh City Vietnam,Air France,Sabotaje  Secuestro
+ Barbados,1976-10-06,Bridgetown Barbados,Cubana,Sabotaje  Secuestro
+ Malaysia,1977-12-04,Kampung Ladang Malaysia,Malaysia AL,Sabotaje  Secuestro
+ Rhodesia,1978-09-03,Kariba Rhodesia,Air Rhodesia,Sabotaje  Secuestro
+ Rhodesia,1979-02-12,Kariba Rhodesia,Air Rhodesia,Sabotaje  Secuestro
+ Ethiopia,1979-02-19,Barentu Ethiopia,Ethiopian Airlines,Sabotaje  Secuestro
+ Illinois,1979-11-15,Chicago Illinois,American Airlines,Sabotaje  Secuestro
+ Italy,1980-06-27,Tyrrhenian Sea Italy,Itavia,Sabotaje  Secuestro
+ Colombia,1980-12-21,Rio Hacha Colombia,Trans. Aereos del Caribe,Sabotaje  Secuestro
+ Angola,1981-05-16,Menongue Angola,TAAG Angola Airlines,Sabotaje  Secuestro
+ Huila,1983-11-08,Lubango Huila Angola,TAAG Angola Airlines,Sabotaje  Secuestro
+ UAE,1983-09-23,Mina Jebel Ali UAE,Gulf Air,Sabotaje  Secuestro
+ Greece,1985-06-14,Athens Greece,Trans World AL,Sabotaje  Secuestro
+ Ireland,1985-06-23,Atlantic Ocean Ireland,Air India,Sabotaje  Secuestro
+ Malta,1985-11-24,Luqa Malta,Egyptair,Sabotaje  Secuestro
+ Greece,1986-04-02,Athens Greece,Trans World AL,Sabotaje  Secuestro
+ Sri Lanka,1986-05-03,Colombo Sri Lanka,Air Lanka,Sabotaje  Secuestro
+ Sudan,1986-08-16,Malakal Sudan,Sudan Airways,Sabotaje  Secuestro
+ Pakistan,1986-09-05,Karachi Pakistan,Pan American AW,Sabotaje  Secuestro
+ Saudi Arabia,1986-12-25,Ay Saudi Arabia,Iraqi AW,Sabotaje  Secuestro
+ Sudan,1987-05-05,Malakal Sudan,Sasco Air Lines,Sabotaje  Secuestro
+ Switzerland,1987-07-24,Geneva Switzerland,Air Afrique,Sabotaje  Secuestro
+ California,1987-12-07,San Luis Obispo California,Pacific Southwest AL,Sabotaje  Secuestro
+ South Africa,1988-03-01,Johannesberg South Africa,Comair,Sabotaje  Secuestro
+ Pakistan,1988-08-17,Bahawalpur Pakistan,Pakistan Air Force,Sabotaje  Secuestro
+ Scotland,1988-12-21,Lockerbie Scotland,Pan American AW,Sabotaje  Secuestro
+ Somalia,1989-06-28,Borana Somalia,Somali Airlines,Sabotaje  Secuestro
+ Niger,1989-09-19,Bilma Niger,Union des Trans. Aer.,Sabotaje  Secuestro
+ Colombia,1989-11-27,Bogota Colombia,Avianca,Sabotaje  Secuestro
+ China,1990-10-02,Guangzhou China,Xiamen/China SW AL,Sabotaje  Secuestro
+ Tajikistan,1993-08-28,Khorag Tajikistan,Tadzhikistan Nat. AL,Sabotaje  Secuestro
+ Georgia,1993-09-21,Sukhumi Georgia,Transair Georgia Airlines,Sabotaje  Secuestro
+ Rwanda,1994-04-06,Kigali Rwanda,Rwanda Government,Sabotaje  Secuestro
+ Panama,1994-07-09,Colon Panama,Alas Chiricanas,Sabotaje  Secuestro
+ Panama,1994-07-19,Colon Panama,Alas Chiricanas,Sabotaje  Secuestro
+ Algeria,1994-12-26,Algiers Algeria,Air France,Sabotaje  Secuestro
+ Comoros Islands,1996-11-23,Moroni Comoros Islands,Ethiopian AL,Sabotaje  Secuestro
+ Brazil,1997-07-09,Suzano Brazil,TAM,Sabotaje  Secuestro
+ Cyprus,1988-04-05,Combi Cyprus,Kuwait AW,Sabotaje  Secuestro
+ Sri Lanka,1998-09-29,Mannar Sri Lanka,Lionair,Sabotaje  Secuestro
+ Angola,1998-12-14,Cuito Angola,Khors Aircompany,Sabotaje  Secuestro
+ Japan,1999-07-23,Tokyo Japan,All Nippon AW,Sabotaje  Secuestro
+ Angola,1999-07-01,Luzamba Angola,Savanair,Sabotaje  Secuestro
+ India,1999-12-24,Amritsar India,Indian Airlines,Sabotaje  Secuestro
+ Philippines,2000-05-25,Manila Philippines,Philippine Air Lines,Sabotaje  Secuestro
+ Saudi Arabia,2001-03-15,Medina Saudi Arabia,Vnukovo Airlines,Sabotaje  Secuestro
+ Pennsylvania,2001-09-11,Shanksville Pennsylvania,United AL,Sabotaje  Secuestro
+ New York,2001-09-11,New York New York,American AL,Sabotaje  Secuestro
+ New York,2001-09-11,New York New York,United AL,Sabotaje  Secuestro
+ Virginia,2001-09-11,Arlington Virginia,American AL,Sabotaje  Secuestro
+ Russia,2001-10-04,Sochi Russia,Sibir Airlines,Sabotaje  Secuestro
+ DRC,2001-12-14,Geti DRC,Eagle Air,Sabotaje  Secuestro
+ China,2002-05-07,Off Dalian China,China Northern Airlines,Sabotaje  Secuestro
+ Russia,2004-08-24,Toula Russia,VolgaAvia Express,Sabotaje  Secuestro
+ Russia,2004-08-24,Toula Russia,VolgaAvia Express,Sabotaje  Secuestro
+ Russia,2004-08-24,RostovonDon Russia,Sibir Airlines,Sabotaje  Secuestro
+ Ukraine,2014-07-17,Hrabove Ukraine,Malaysia Airlines,Sabotaje  Secuestro
+ Fran,2015-03-24,DigneLesBains Fran,Germanwings,Sabotaje  Secuestro
+ Egypt,2015-10-31,Hasna Egypt,Metrojet,Sabotaje  Secuestro
+ Somalia,2016-02-02,Mogadishu Somalia,Daallo Airlines,Sabotaje  Secuestro
